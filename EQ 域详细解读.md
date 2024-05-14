@@ -8,7 +8,7 @@
 
 分数开关`\F`，`Fraction`的首字母，巧妙记忆`fenshu`
 
-==**语法**==
+**语法**
 
 `{ eq \f(分子,分母)}`
 
@@ -110,8 +110,8 @@ $$\sum_a^bc$$
 
 `{ eq \i\pr(a,b,c)}`
 
-$\prod_a^bc$
+$$\prod_a^bc$$
 
 `{ eq \i\in(a,b,c)}`
 
-$\int_1^\infty c$
+$$\int_1^\infty c$$
